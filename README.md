@@ -1,4 +1,3 @@
-# binary_classification
 Will a user become an executive?
 =======================
 
