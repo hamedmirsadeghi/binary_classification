@@ -22,7 +22,7 @@ The columns/features in the file are:
 | `jobrole_id` | ID of the jobrole that the user currently has |
 | `industry_id` | ID of the industry (23 industries; the actual meaning is not important for this task; 0 = unknown) |
 | `company_size` | an ID that describes the size of the company (0 = unknown) |
-| `number_of_cv_entries` | the number of CV entries (= work experience entries) that the user lists on XING |
+| `number_of_cv_entries` | the number of CV entries (= work experience entries) that the user lists on job poral |
 | **`will_be_executive`** | the class that should be predicted: 1 = yes, the user will be at the level of an executive (i.e. `career_level >= 5`) in her next career step; otherwise: 0 |
 
 
